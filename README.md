@@ -1,4 +1,4 @@
-## 👨‍💻 Juan Bautista Ureña Roldán  
+# 👨‍💻 Juan Bautista Ureña Roldán  
 
 🎓 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**  
 💾 Titulado en **Sistemas Microinformáticos y Redes (SMR)**    
@@ -6,7 +6,7 @@
 
 ---
 
-# 📌 Sobre mí  
+## 📌 Sobre mí  
 
 - Me gusta administrar sistemas como Linux y Windows, además de ello todo el mundo relacionado
   con las redes es lo que mas me gusta, pero también soy capaz de interesarme en el hardware y realizar mantenimientos
@@ -14,7 +14,7 @@
 
 ---
 
-# 📊 Estadísticas de GitHub  
+## 📊 Estadísticas de GitHub  
 
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=jurerol2406&show_icons=true&theme=tokyonight)  
 
