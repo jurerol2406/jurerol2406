@@ -8,7 +8,6 @@
 
 ## 📌 Sobre mí  
 
-- Soy estudiante de ASIR (Administración de Sistemas Informáticos en Red) y técnico de SMR (Sistemas Microinformáticos y Redes).
 - Lo que mas me interesa son la administración de sistemas, tanto en Linux como en Windows, y disfruto trabajando en el ámbito de las redes
 - Además, tengo interés en el **hardware**, lo que me permite realizar tareas de mantenimiento, montaje y reparación de equipos.  
 --Me considero una persona curiosa y con ganas de seguir aprendiendo, abierta a nuevas tecnologías y metodologías que me permitan crecer como profesional en el área IT.
