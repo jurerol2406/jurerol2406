@@ -8,9 +8,8 @@
 
 ## 📌 Sobre mí  
 
-- Me gusta administrar sistemas como Linux y Windows, además de ello todo el mundo relacionado
-  con las redes es lo que mas me gusta, pero también soy capaz de interesarme en el hardware y realizar mantenimientos
-  o reparaciones.
+- Soy estudiante de ASIR (Administración de Sistemas Informáticos en Red) y técnico de SMR (Sistemas Microinformáticos y Redes).
+- Lo que mas me interesa son la administración de sistemas, tanto en Linux como en Windows, y disfruto trabajando en el ámbito de las redes
 
 ---
 
